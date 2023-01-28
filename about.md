@@ -1,1 +1,1 @@
-http://example.com/about.html
+http://https://yenching2024.github.io/about.html
